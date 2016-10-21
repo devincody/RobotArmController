@@ -1,0 +1,8 @@
+*.pyc
+pi@*
+Scree*
+*.docx
+*2.py
+servo_driver.py
+gradient.py
+gradient3.py
